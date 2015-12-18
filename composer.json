@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "require":{
+        "php": ">=5.5.0",
+        "jmitchell38488/oauth2-fitbit": "^0.1.3"
+    }
+}
